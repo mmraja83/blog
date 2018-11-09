@@ -1,0 +1,50 @@
+baseURL = "https://rajamm.info/"
+languageCode = "en-us"
+title = "Raja Webb"
+theme = "resume"
+
+[params]
+    firstName = "Raja"
+    lastName = "Moola Mahadevan"
+    address = "Maple Shade, NJ"
+    phone = "1-303-990-7427"
+    contactNote = "Senior Front End UI Dev"
+    profileImage = "img/fb_profile_photo.jpg"
+    email = "mmraja83@gmail.com"
+    description = "Senior Front-End UI Developer with 11+ years of experience in Full-Stack web application development with LAMP Environment, PHP (V 7.1 & 5.6), Angular 6, Type Script, SQL (generic SQL, MySQL, Oracle), Perl, Oracle, MongoDB, HTML5, XHTML, CSS, JavaScript (generic JS, jQuery, Ajax, cross-domain Ajax), Bootstrap, REST API, XML and JSON."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = true
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/mmraja/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/mmraja83/"
+
+# [[params.handles]]
+#     name = "Bitbucket"
+#     link = "https://bitbucket.org/eddiewebb/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/912111/raja?tab=profile"
+    icon = "stack-overflow"
+
+# [[params.handles]]
+#     name = "Keybase"
+#     link = "https://keybase.io/edwardawebb"
+#     icon = "key"
+
+# [params.google.analytics]
+#     trackerID = "XX-123446-01"

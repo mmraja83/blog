@@ -1,0 +1,39 @@
+[
+    {
+        "role":"Senior Front End Developer",
+        "location": "Philadelphia, PA",
+        "company":"Comcast Business Service Team as a Contractor",
+        "summary":"Working as a Lead Front-End developer for the VMS Application and managing four resources in Offshore center.",
+        "range":"Jan 2018 - Present"
+    },
+    {
+        "role":"Senior Full Stack Developer",
+        "company":"Comcast IPEdge Team as a Contractor",
+        "summary":"Worked as a Lead developer, Analyzing the issue and identify gaps to develop a solution for their network operation team.",
+        "range":"March 2016 - Dec 2017"
+    },
+    {
+        "role":"Senior Softwar Engineer",
+        "company":"Comcast NVDE Team as Contractor",
+        "summary":"Created an application to track VOD asset information which validate the meta data on all systems where the Meta data flow is happening. This application used by VOD Operation team so that they can easily identify the issues related with particular asset",
+        "range":"Aug 2013 - Feb 2016"
+    },
+    {
+        "role":"Senior Softwar Engineer",
+        "company":"Salzer Technologies",
+        "summary":"Worked as a full stack web application developer with this company for various customers to convert their business requirement to web application",
+        "range":"Oct 2012 - July 2013"
+    },
+    {
+        "role":"Web Application Developer",
+        "company":"Matrimony.com",
+        "summary":"Developed a Chat module for their portal that interacts with millions of customers",
+        "range":"Feb 2010 - Oct 2012"
+    },
+    {
+        "role":"Web Application Developer",
+        "company":"Team Mango Media Private Limited",
+        "summary":"Have worked several projects in this company. The Team Mango Media integrates web solutions for businesses with media websites for consumers in key vertical markets",
+        "range":"Dev 2007 - Feb 2010"
+    }
+]
