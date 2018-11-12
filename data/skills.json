@@ -1,20 +1,20 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "DNS","Firewalls","Load Balancing","Microservices","RESTful APIs"]
+      "skills":[ "DNS","Load Balancing","Microservices","RESTful APIs"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Angular 6+","TypeScript","Javascript", "PHP","MySQL", "Oracle", "Linux", "Apache", "NGINX","jQuery","HTML","CSS"]
+      "skills":[ "Angular","TypeScript","Javascript", "PHP","MySQL", "Oracle", "Linux", "Apache", "NGINX","jQuery","HTML","CSS"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bitbucket","NGINX","Wordpress"]
+      "skills":[ "Atlassian","Git","NGINX","Wordpress"]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Openstack","link":"https://www.openstack.org/"},
           {"name":"Vagrant","link":"https://www.vagrantup.com/"},
           {"name":"Cloud Foundry","link":"https://bosh.io"}
       ]

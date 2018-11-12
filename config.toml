@@ -1,4 +1,4 @@
-baseURL = "https://rajamm.info/"
+baseURL = "https://mmraja83.github.io/"
 languageCode = "en-us"
 title = "Raja Webb"
 theme = "resume"
@@ -40,6 +40,10 @@ theme = "resume"
     name = "Stack Overflow"
     link = "https://stackoverflow.com/users/912111/raja?tab=profile"
     icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Wordpress"
+    link = "http://www.rajamm.info"
 
 # [[params.handles]]
 #     name = "Keybase"
